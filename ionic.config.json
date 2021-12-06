@@ -1,0 +1,7 @@
+{
+  "name": "tuSitio",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
